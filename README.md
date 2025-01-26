@@ -11,6 +11,8 @@ This project analyzes the sales data of a pizza business to provide insights int
 
 ## Technologies Used
 
-- SQL 
+- SQL
+
+- PowerBI 
 
 
